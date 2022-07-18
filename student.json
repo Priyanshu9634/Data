@@ -1,0 +1,47 @@
+[
+{
+    "userId": 1,
+    "id": "1",
+    "name": "Priyanshu Uniyal",
+    "email": "priyansuuniyal@gmail.com",
+    "semester": "6",
+    "mobile": "9634842494",
+    "CGPA": "8.01"
+},
+{
+    "userId": 2,
+    "id": "2",
+    "name": "Rohan",
+    "email": "abc@gmail.com",
+    "semester": "6",
+    "mobile": "1234567899",
+    "CGPA": "9.04"
+},
+{
+    "userId": 3,
+    "id": "3",
+    "name": "Rahul",
+    "email": "xyz@gmail.com",
+    "semester": "6",
+    "mobile": "1234567889",
+    "CGPA": "7.05"
+},
+{
+    "userId": 4,
+    "id": "4",
+    "name": "Ayush",
+    "email": "pqrs@gmail.com",
+    "semester": "5",
+    "mobile": "1234567789",
+    "CGPA": "8.46"
+},
+{
+    "userId": 5,
+    "id": "5",
+    "name": "Akhil",
+    "email": "def@gmail.com",
+    "semester": "6",
+    "mobile": "1224567899",
+    "CGPA": "7.32"
+}
+]
